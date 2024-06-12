@@ -5,7 +5,7 @@ Tecnologias utilizadas:
 OpenCV: Para capturar e processar quadros de vídeo.
 MediaPipe: Para detecção de pontos de referência manuais em tempo real.
 NumPy: Para operações numéricas e cálculos de distância.
-pycaw: Para controlar o volume do sistema.
+Pycaw: Para controlar o volume do sistema.
 
 Potencial da aplicação:
 Este projeto mostra a integração de visão computacional e reconhecimento de gestos para criar sistemas de controle intuitivos e sem contato. Essa tecnologia pode ser estendida para controlar vários aspectos de uma casa inteligente, melhorar a acessibilidade e melhorar a interação humano-computador em um ambiente sem toque.
