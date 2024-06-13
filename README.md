@@ -1,5 +1,5 @@
 # Controle de volume por gestos manuais usando OpenCV e MediaPipe
-Este projeto demonstra um sistema de controle de volume por gestos manuais em tempo real usando Python. A aplicação captura o vídeo da webcam, detecta pontos de referência das mãos usando o MediaPipe e ajusta o volume do sistema com base na distância entre o polegar e o indicador.
+Este projeto demonstra um sistema de controle de volume por gestos manuais em tempo real usando Python e um modelo pré-treinado para rastrear mãos. A aplicação captura o vídeo da webcam, detecta pontos de referência das mãos usando o MediaPipe e ajusta o volume do sistema com base na distância entre o polegar e o indicador.
 
 Tecnologias utilizadas:
 OpenCV: Para capturar e processar quadros de vídeo.
