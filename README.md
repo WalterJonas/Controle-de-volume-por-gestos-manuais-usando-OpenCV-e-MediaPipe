@@ -9,3 +9,7 @@ Pycaw: Para controlar o volume do sistema.
 
 Potencial da aplicação:
 Este projeto mostra a integração de visão computacional e reconhecimento de gestos para criar sistemas de controle intuitivos e sem contato. Essa tecnologia pode ser estendida para controlar vários aspectos de uma casa inteligente, melhorar a acessibilidade e melhorar a interação humano-computador em um ambiente sem toque.
+
+
+https://github.com/WalterJonas/Controle-de-volume-por-gestos-manuais-usando-OpenCV-e-MediaPipe/assets/74218624/f9b05316-129e-4c4b-834c-7560cf7d4158
+
